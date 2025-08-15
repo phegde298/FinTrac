@@ -41,8 +41,8 @@ FinTrac is a full-stack expense and income tracker that helps users manage their
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/phegde298/FinTrack.git
-cd FinTrack
+git clone https://github.com/phegde298/FinTrac.git
+cd FinTrac
 ```
 
 ### 2. Backend Setup
