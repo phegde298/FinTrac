@@ -1,6 +1,6 @@
-# 💸 FinTrack - Personal Finance Tracker
+# 💸 FinTrac - Personal Finance Tracker
 
-FinTrack is a full-stack expense and income tracker that helps users manage their personal finances with ease. It provides a clean dashboard, data visualization, and secure user authentication.
+FinTrac is a full-stack expense and income tracker that helps users manage their personal finances with ease. It provides a clean dashboard, data visualization, and secure user authentication.
 
 ---
 
@@ -37,27 +37,6 @@ FinTrack is a full-stack expense and income tracker that helps users manage thei
 
 ---
 
-## 📂 Project Structure
-
-```
-FinTrack/
-├── backend/
-│   ├── controllers/
-│   ├── middleware/
-│   ├── models/
-│   ├── routes/
-│   ├── config/
-│   ├── uploads/
-│   ├── server.js
-│   └── .env
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   └── vite.config.js
-```
-
----
-
 ## 🧪 Setup Instructions
 
 ### 1. Clone the Repository
@@ -86,14 +65,12 @@ npm run dev
 ---
 
 ## 📷 Screenshots
-_Add screenshots or gifs of the dashboard, login, and analytics pages here._
 
 ---
 
 ## 🧑‍💻 Authors
 **Prakruti Hegde**
 **Bhoomi Pandey**  
-Feel free to connect on [LinkedIn]([https://www.linkedin.com/in/prakruti-hegde/]) or contribute to the project.
 
 ---
 
